@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+input,
+label {
+  display: block;
+  width: 100%;
+  padding: 10px;
+}
+
+button {
+  margin-top: 20px;
+}

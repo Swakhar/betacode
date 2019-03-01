@@ -13,3 +13,11 @@ label {
 button {
   margin-top: 20px;
 }
+
+.panel {
+  border: 2px solid #333;
+}
+
+.panel p {
+  color: red;
+}
